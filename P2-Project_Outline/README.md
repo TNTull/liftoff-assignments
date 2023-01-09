@@ -7,12 +7,37 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+My group project will be a family tree with some fetures that ones on the web don't have.
+
+This project was motivated by the interest of the mother of a group member.  Many people like to have their family tree and it would be great for the extra features.
+
 ### Features
-Include Features here
+
+a. with user accounts (family members)
+b. chart that shows connections
+c. a note section that members can tell stories about the person
+d. forum that members can ask questions that others can answer
+e. reminders of personal events (sort of like my idea below)
+
 ### Technologies
-Include Technologies here
+
+Java
+Spring Boot
+MySQL
+Thymeleaf templates
+Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I will have to learn:
+login security 
+a better understanding of the technologies 
+how to develop a chat room for family members
+how to incorporate a note section and connect it to the person
+how to create a monthly reminder feature (for personal events)
+
 ### Project Tracker
-Link to your Trello board here
+
+Our group trello board URL is:
+https://trello.com/b/4YeLWqGq/family-tree 
