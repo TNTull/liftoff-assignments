@@ -14,28 +14,28 @@ This project was motivated by the interest of the mother of a group member.  Man
 
 ### Features
 
-a. with user accounts (family members)
-b. chart that shows connections
-c. a note section that members can tell stories about the person
-d. forum that members can ask questions that others can answer
-e. reminders of personal events (sort of like my idea below)
+1. with user accounts (family members)
+2. chart that shows connections
+3. a note section that members can tell stories about the person
+4. forum that members can ask questions that others can answer
+5. reminders of personal events (sort of like my idea below)
 
 ### Technologies
 
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-Bootstrap
+1. Java
+2. Spring Boot
+3. MySQL
+4. Thymeleaf templates
+5. Bootstrap
 
 ### What I'll Have to Learn
 
 I will have to learn:
-1. login security,
-2. a better understanding of the technologies, 
-3. how to develop a chat room for family members. 
-4. how to incorporate a note section and connect it to the person, 
-5. how to create a monthly reminder feature (for personal events).
+1. login security
+2. a better understanding of the technologies 
+3. how to develop a chat room for family members
+4. how to incorporate a note section and connect it to the person 
+5. how to create a monthly reminder feature (for personal events)
 
 ### Project Tracker
 
