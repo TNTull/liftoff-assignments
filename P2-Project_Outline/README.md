@@ -14,7 +14,7 @@ This project was motivated by the interest of the mother of a group member.  Man
 
 ### Features
 
-1. with user accounts (family members)
+1. user accounts (family members)
 2. chart that shows connections
 3. a note section that members can tell stories about the person
 4. forum that members can ask questions that others can answer
