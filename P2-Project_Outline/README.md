@@ -10,7 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 My group project will be a family tree with some fetures that ones on the web don't have.
 
-This project was motivated by the interest of the mother of a group member.  Many people like to have their family tree and it would be great for the extra features.
+This project was motivated by the interest of the mother of a group member.  Many people like to have their family tree and it would be great to have the extra features.
 
 ### Features
 
