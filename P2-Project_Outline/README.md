@@ -31,11 +31,11 @@ Bootstrap
 ### What I'll Have to Learn
 
 I will have to learn:
-login security 
-a better understanding of the technologies 
-how to develop a chat room for family members
-how to incorporate a note section and connect it to the person
-how to create a monthly reminder feature (for personal events)
+1. login security,
+2. a better understanding of the technologies, 
+3. how to develop a chat room for family members. 
+4. how to incorporate a note section and connect it to the person, 
+5. how to create a monthly reminder feature (for personal events).
 
 ### Project Tracker
 
