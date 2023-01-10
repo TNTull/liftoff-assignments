@@ -14,11 +14,12 @@ This project was motivated by the interest of the mother of a group member.  Man
 
 ### Features
 
-1. user accounts (family members)
-2. chart that shows connections
-3. a note section that members can tell stories about the person
-4. forum that members can ask questions that others can answer
-5. reminders of personal events (sort of like my idea below)
+1. user accounts (family members) -- all users will have to create an account and then log in with each visit (site will be for members only)
+2. chart that shows connections -- there will be a chart that will show connections (and linked to menu of connections)
+3. a note section that members can tell stories about the person -- family can tell what they remembered about a person or heard older family tell
+4. forum that members can ask questions that others can answer -- if someone is trying to find out about a relative, others can anwer their question
+5. reminders of personal events (member will choose which people will be sent) -- this will remind a member of upcoming birthdays and anniversaries so they can send a card or send an email
+6. a family tree display to print (the whole tree or branches) (the whole tree will be many pages)
 
 ### Technologies
 
