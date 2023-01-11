@@ -27,10 +27,10 @@ My list of features:
 6. a family tree display to print (the whole tree or branches) (the whole tree will be many pages)
 
 Our group's list of features:
-•	1. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
-•	2. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
-•	3. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
-•	4. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
+1. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
+2. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
+3. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
+4. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
 
 ### Technologies
 
