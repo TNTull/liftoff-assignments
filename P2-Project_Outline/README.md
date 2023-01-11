@@ -18,7 +18,7 @@ Our group's overview:
 Our app will support the creation, editing, sharing and communication around a family tree. Some of our members have personal experience trying to research and build a tree with family members. This program will facilitate collaboration and produce a nice diagram to share.
 
 ### Features
-My list of features
+My list of features:
 1. user accounts (family members) -- all users will have to create an account and then log in with each visit (site will be for members only)
 2. chart that shows connections -- there will be a chart that will show connections (and linked to menu of connections)
 3. a note section that members can tell stories about the person -- family can tell what they remembered about a person or heard older family tell
@@ -26,11 +26,11 @@ My list of features
 5. reminders of personal events (member will choose whose reminders will be sent) -- this will remind a member of upcoming birthdays and anniversaries so they can send a card or send an email
 6. a family tree display to print (the whole tree or branches) (the whole tree will be many pages)
 
-Our group's list of features
-•	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
-•	Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
-•	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
-•	Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
+Our group's list of features:
+•	1. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
+•	2. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
+•	3. User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
+•	4. Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
 
 ### Technologies
 
