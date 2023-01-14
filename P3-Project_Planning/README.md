@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 these are my wireframes created in word:
 1. [wireframe for login.pdf](https://github.com/TNTull/liftoff-assignments/files/10415346/wireframe.for.login.pdf)
-2. [wireframe for sign up user for login.pdf](https://github.com/TNTull/liftoff-assignments/files/10415355/wireframe.for.sign.up.user.for.login.pdf)
+2. [wireframe for sign up user for login.pdf](https://github.com/TNTull/liftoff-assignments/files/10416917/wireframe.for.sign.up.user.for.login.pdf)
 3. [wireframe for sign up person on tree.pdf](https://github.com/TNTull/liftoff-assignments/files/10415356/wireframe.for.sign.up.person.on.tree.pdf)
 4. [wireframe for family tree.pdf](https://github.com/TNTull/liftoff-assignments/files/10415357/wireframe.for.family.tree.pdf)
 
