@@ -16,4 +16,4 @@ https://www.linkedin.com/in/teresa-tull/
 [Teresa Tull 2023.pdf](https://github.com/TNTull/liftoff-assignments/files/10425609/Teresa.Tull.2023.pdf)
 
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
