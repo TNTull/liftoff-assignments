@@ -13,7 +13,7 @@ https://github.com/TNTull
 https://www.linkedin.com/in/teresa-tull/
 
 ### Resume
-[Teresa Tull 2023.pdf](https://github.com/TNTull/liftoff-assignments/files/10425609/Teresa.Tull.2023.pdf)
+[Teresa Tull 2023.pdf](https://github.com/TNTull/liftoff-assignments/files/10451346/Teresa.Tull.2023.pdf)
 
 
 
